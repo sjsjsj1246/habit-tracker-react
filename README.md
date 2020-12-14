@@ -1,1 +1,1 @@
-# react-project-template
+# habit-tacker-react
